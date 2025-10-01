@@ -1,0 +1,45 @@
+body {
+    font-family: Arial, sans-serif;
+    font-size: 17px;
+    line-height: 1.6;
+  }
+  nav {
+    background-color: pink;
+  }
+  
+  header {
+    background-color: palevioletred;
+    background-image: url('https://via.placeholder.com/1920x600');
+    background-size: cover;
+    background-position: center;
+    color: white;
+    padding: 100px 0;
+  }
+  h2{
+    background-color: palevioletred;
+  }
+  
+  header h1 {
+    font-size: 3rem;
+    font-weight: bold;
+  }
+  
+  .icon img {
+    width: 150px;
+    height: 150px;
+  }
+  
+  .card img {
+    height: 200px;
+    object-fit: cover;
+  }
+  #contact{
+    background-color: pink;
+  }
+  footer{
+    background-color: pink;
+  }
+  footer p {
+    margin: 0;
+    font-size: 0.9rem;
+  }
